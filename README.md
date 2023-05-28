@@ -1,6 +1,6 @@
 # Chargerbox Panel Surya
  An arduino project for my computer science assignment.
- [Arduino](https://github.com/nokatotedo/chargerbox-panel-surya/blob/main/ChargeboxPanelSurya.ino) will communicate with [ESP8266](https://github.com/nokatotedo/chargerbox-panel-surya/blob/main/TelegramChargerboxPanelSurya.ino) to access [Telegram Bot](t.me/chargerbox_notifbot).
+ [Arduino](https://github.com/nokatotedo/chargerbox-panel-surya/blob/main/ChargeboxPanelSurya.ino) will communicate with [ESP8266](https://github.com/nokatotedo/chargerbox-panel-surya/blob/main/TelegramChargerboxPanelSurya.ino) to access [Telegram Bot](https://t.me/chargerbox_notifbot).
  
  ### Board
  esp8266 by ESP8266 Community 2.7.1
