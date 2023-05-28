@@ -1,9 +1,7 @@
-#include <Adafruit_Fingerprint.h>
 #include <ESP8266WiFi.h>
 #include <WiFiClientSecure.h>
 #include <UniversalTelegramBot.h>
 #include <ArduinoJson.h>
-#include <SoftwareSerial.h>
 
 #define NAMA_WIFI "PANDU"
 #define PASSWORD_WIFI "peraiiii"
