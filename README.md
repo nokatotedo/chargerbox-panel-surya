@@ -10,5 +10,5 @@
  Keypad by Mark Stanley, Alexander Brevig 3.1.1 </br>
  
  ### Library for ESP8266
- AduinoJson by Benoit Blanchon 6.20.0 </br>
+ ArduinoJson by Benoit Blanchon 6.20.0 </br>
  UniversalTelegramBot by Brian Lough 1.3.0 </br>
